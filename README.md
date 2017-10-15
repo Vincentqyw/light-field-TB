@@ -1,7 +1,7 @@
 # Light_Field_TB
 This is a simple test for light field ToolBox.
 # How to use?
-## put the needed files to according folders
+## step1: put the needed files to according folders
 
     Project root
     ├── LFToolbox0.4                %source files of LF_TB
@@ -17,6 +17,6 @@ This is a simple test for light field ToolBox.
     ├── ViewLightField.m
     └── README.md                   %this file
 
-## run demo.m
+## step2: run demo.m
 
 
